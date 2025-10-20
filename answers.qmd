@@ -146,7 +146,13 @@ plot_kids_south
 
 Include your finished version of the plot here! Place the exported PDF or PNG in the same folder as this `.qmd` file and use Markdown syntax to include the image in the document.
 
-![My finished version](img/enhanced-plot.svg)
+**I've included my original Illustrator and Inkscape files on iCollege so you can see how I built the finished image.**
+
+You should have typed something like this to show your plot:
+
+```{.markdown}
+![My finished plot](enhanced-plot.svg)
+```
 
 
 # ~~Task 3: Extension~~
