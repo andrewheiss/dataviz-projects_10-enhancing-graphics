@@ -10,5 +10,7 @@
 *.svg
 !img/*.png
 !img/*.svg
+!editable-vector-files/*.svg
+!editable-vector-files/*.ai
 
 /.quarto/
